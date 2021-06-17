@@ -31,3 +31,4 @@ for n in range (start, end):
   if check(n , mult) == False: 
       continue
   print (n, res)
+# output: 142857 [285714, 428571, 571428, 714285, 857142]
