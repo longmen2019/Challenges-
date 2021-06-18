@@ -13,3 +13,5 @@ s = sum(pow(n,n)for n in range (1, L+1))
 
 
 print("Project Euler 48 Solution = %d" % (s%d))
+
+#Project Euler 48 Solution= 9110846700
