@@ -12,5 +12,5 @@ for i in range (1,11):
     potential_solution.add(int(math.pow(i,i)))
     
 print(sum(potential_solution))
-
+# 10405071317
     
